@@ -208,15 +208,5 @@ DL_TUTOR aims to provide an interactive environment where learners can explore t
 - More detailed training metrics and model comparisons.
 - Evaluation of the platform with students to assess usability and learning effectiveness.
 
-## 👩‍💻 Author
-
-**Khyathi Noothi**
-
-GitHub: [@KhyathiNoothi](https://github.com/KhyathiNoothi)
-
-## 📄 License
-
-A license has not yet been specified. Please add an appropriate license before distributing the project for reuse.
-
 This is my DL_TUTOR project
 
