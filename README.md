@@ -196,7 +196,7 @@ uvicorn main:app --host 0.0.0.0 --port $PORT
 
 Configure the frontend to use the deployed backend URL. Ensure that the backend's CORS configuration permits requests from the deployed frontend domain.
 
-🚀 Live Demo: dl-tutor-iota.vercel.app
+🚀 Live Demo: [dl-tutor-iota.vercel.app](https://dl-tutor-iota.vercel.app/)
 
 
 
