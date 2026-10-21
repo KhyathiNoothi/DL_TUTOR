@@ -195,9 +195,10 @@ uvicorn main:app --host 0.0.0.0 --port $PORT
 ```
 
 Configure the frontend to use the deployed backend URL. Ensure that the backend's CORS configuration permits requests from the deployed frontend domain.
-🚀 Live Demo: Try DL_TUTOR
 
-📚 API Documentation: Explore the API
+🚀 Live Demo: dl-tutor-iota.vercel.app
+
+
 
 An interactive web-based platform for learning Artificial Neural Networks (ANNs), Convolutional Neural Networks (CNNs), and Recurrent Neural Networks (RNNs) through hands-on experimentation and visual learning.
 
